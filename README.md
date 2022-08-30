@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **aydinfakhri9@gmail.com**
 
-- ⚡ **I'm open to collaborating on Django developign!**
+- ⚡ **I'm open to collaborating on Django developing!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
