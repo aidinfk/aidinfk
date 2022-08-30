@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidinfk&label=Profile%20views&color=0e75b6&style=flat" alt="aidinfk" /> </p>
 
-- 🌱 I’m currently working on **Databases like Redis and Postgresql for system design**
+- 🌱 I’m currently working on **Databases(Redis & Postgresql) for system design**
 
-- 📫 How to reach me **aydinfakhri9@gmail.com**
+- 📫 How to reach me: **aydinfakhri9@gmail.com**
 
 - ⚡ **I'm open to collaborating on Django developing!**
 
