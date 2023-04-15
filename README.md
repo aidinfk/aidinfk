@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidinfk&label=Profile%20views&color=0e75b6&style=flat" alt="aidinfk" /> </p>
 
-- 🌱 I’m currently working on **the Julia program language**
+- 🌱 I’m currently working on **the Data Science and Data Analytics**
 
 - 📫 How to reach me: **aydinfakhri9@gmail.com**
 
