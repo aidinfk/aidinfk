@@ -9,8 +9,7 @@
 
 ### 🔬 Research Focus
 I work at the intersection of **sustainable software engineering**, **efficient data architectures**, and **process mining for healthcare**.  
-My recent work centers on hybrid MySQL–NoSQL models, resource-efficient backend design, and reproducible experimentation.
-
+My recent work focuses on hybrid MySQL–NoSQL models, resource-efficient backend design, and reproducible experimentation.
 ---
 
 ### 🎓 Academic Background
