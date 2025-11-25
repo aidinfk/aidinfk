@@ -1,25 +1,51 @@
-<h1 align="center">Hi 👋, I'm Aidin Fakhri</h1>
-<h3 align="center">Back-end developer</h3>
+<h1 align="center">Hi 👋, I'm Aydin Fakhri</h1>
+<h3 align="center">Software Engineer | Researcher in Sustainable Data-Intensive Systems</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aidinfk&label=Profile%20views&color=0e75b6&style=flat" alt="aidinfk" /> </p>
-
-- 🌱 I’m currently working on **Amazon Web Services (AWS - Cloud Computing)**
-
-- 📫 How to reach me: **aydinfakhri9@gmail.com**
-
-- ⚡ **I'm open to collaborating on Django developing!**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aydin-fakhri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aydin fakhri" height="30" width="40" /></a>
-<a href="https://instagram.com/aidinfk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aidinfk" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=aidinfk&label=Profile%20views&color=0e75b6&style=flat" alt="aidinfk" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidinfk&show_icons=true&locale=en&layout=compact" alt="aidinfk" /></p>
+### 🔬 Research Focus
+I work at the intersection of **sustainable software engineering**, **efficient data architectures**, and **process mining for healthcare**.  
+My recent work centers on hybrid MySQL–NoSQL models, resource-efficient backend design, and reproducible experimentation.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidinfk&show_icons=true&locale=en" alt="aidinfk" /></p>
+---
+
+### 🎓 Academic Background
+- **M.Sc. in Software Engineering**, Islamic Azad University, Tabriz (2025)  
+  Thesis: *Design of a Hybrid MySQL–NoSQL Architecture for Sustainable Process Mining in Healthcare Systems*  
+- **B.Sc. in Computer Engineering**, Islamic Azad University, Tabriz (2022)
+
+---
+
+### 📄 Publications (Under Review)
+1. *A Literature Review of Process Mining in Healthcare* (2025)  
+2. *Using Advanced Learning Techniques to Predict Software Defects: A Systematic Literature Review* (2025)
+
+---
+
+### 🛠 Technical Skills
+**Backend & Programming:** Python, Django, FastAPI, SQL  
+**Databases:** MySQL, Redis, basic experience with graph & vector databases  
+**Process Mining:** ProM (Alpha, Heuristic Miner, Inductive Miner), Disco  
+**ML & Data:** pandas, scikit-learn, feature engineering, classical ML  
+**DevOps:** Git, Docker  
+**Academic:** Systematic literature review, scientific writing, reproducible experiments
+
+---
+
+### 📫 Contact
+- Email: **aydinfakhri9@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/aydin-fakhri/**
+- GitHub: **https://github.com/aidinfk**
+
+---
+
+### ⚡ Current Work
+Exploring **sustainable backend optimization**, **hybrid data architectures**, and **efficient process-mining pipelines** for healthcare systems.
+
+
 
 
