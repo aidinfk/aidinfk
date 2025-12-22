@@ -21,8 +21,8 @@ My recent work focuses on hybrid MySQL–NoSQL models, resource-efficient backen
 ---
 
 ### 📄 Publications (Under Review)
-1. *A Literature Review of Process Mining in Healthcare* (2025)  
-2. *Using Advanced Learning Techniques to Predict Software Defects: A Systematic Literature Review* (2025)
+1. *A Literature Review of Process Mining in Healthcare* (Springer - 2025)  
+2. *Using Advanced Learning Techniques to Predict Software Defects: A Systematic Literature Review* (IEEE - 2025)
 
 ---
 
