@@ -21,7 +21,8 @@ My recent work focuses on hybrid MySQL–NoSQL models, resource-efficient backen
 ---
 
 ### 📄 Publications
-1. A Literature Review of Process Mining in Healthcare (International Journal of Data Science and Analytics Springer - 2026)
+1. A Literature Review of Process Mining in Healthcare (International Journal of Data Science and Analytics Springer - 2026
+DOI: https://doi.org/10.1007/s41060-026-01142-5
 2. Using Advanced Learning Techniques to Predict Software Defects: A Systematic Literature Review (under review)
 
 ---
