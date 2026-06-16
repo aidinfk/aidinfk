@@ -24,10 +24,8 @@ My recent work focuses on hybrid MySQL–NoSQL models, resource-efficient backen
 
 1. A Literature Review of Process Mining in Healthcare (International Journal of Data Science and Analytics Springer - 2026)
 - DOI: https://doi.org/10.1007/s41060-026-01142-5
-
 2. Using Advanced Learning Techniques to Predict Software Defects: A Systematic Literature Review (under review)
-
-3.From Productivity to Operational Autonomy: A Systematic Review of the Paradigm Shift in Enterprise Software Value Creation - From Pre-AI Architectures to Vertical Agentic Systems and the Transformation of Digital Economics (1990 - 2026) - (pending...)
+3. 3.From Productivity to Operational Autonomy: A Systematic Review of the Paradigm Shift in Enterprise Software Value Creation - From Pre-AI Architectures to Vertical Agentic Systems and the Transformation of Digital Economics (1990 - 2026) - (pending...)
 
 
 ---
