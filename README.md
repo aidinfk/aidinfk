@@ -1,52 +1,148 @@
-<h1 align="center">Hi 👋, I'm Aydin Fakhri</h1>
-<h3 align="center">Software Engineer | Researcher in Sustainable Data-Intensive Systems</h3>
+# Hi 👋, I'm Aydin Fakhri Kaleybar
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=aidinfk&label=Profile%20views&color=0e75b6&style=flat" alt="aidinfk" />
-</p>
+### Computer Science Researcher | Process Mining | AI & Data-Driven Systems | Software Engineering
 
----
+I am a Computer Science researcher with a background in Software Engineering and practical experience in backend development, data analysis, and data-intensive systems.
 
-### 🔬 Research Focus
-I work at the intersection of **sustainable software engineering**, **efficient data architectures**, and **process mining for healthcare**.  
-My recent work focuses on hybrid MySQL–NoSQL models, resource-efficient backend design, and reproducible experimentation.
+My research interests lie at the intersection of **Process Mining, Artificial Intelligence, Data Science, Software Engineering, and sustainable computing**, with a particular interest in healthcare and software engineering applications.
+
+I am interested in developing and evaluating data-driven approaches that can make complex computational and organizational processes **more efficient, scalable, interpretable, and sustainable**.
 
 ---
 
-### 🎓 Academic Background
-- **M.Sc. in Software Engineering**, Islamic Azad University, Tabriz (2025)  
-  Thesis: *Design of a Hybrid MySQL–NoSQL Architecture for Sustainable Process Mining in Healthcare Systems*  
-- **B.Sc. in Computer Engineering**, Islamic Azad University, Tabriz (2022)
+## 🔬 Research Interests
+
+- **Process Mining & Process Analytics**
+- **Healthcare Process Mining**
+- **Artificial Intelligence & Machine Learning**
+- **Data-Driven Software Engineering**
+- **Software Defect Prediction**
+- **Data-Intensive Systems**
+- **Database Architecture & Optimization**
+- **Sustainable Computing**
+- **Data Center Efficiency & Environmental Sustainability**
+- **Hybrid & Polyglot Persistence Architectures**
+
+My research approach combines **systematic literature analysis, data-driven experimentation, software engineering, and practical implementation**.
 
 ---
 
-### 📄 Publications
+## 📚 Research & Publications
 
-1. A Literature Review of Process Mining in Healthcare (International Journal of Data Science and Analytics Springer - 2026)
-DOI: https://doi.org/10.1007/s41060-026-01142-5
-2. Using Advanced Learning Techniques to Predict Software Defects: A Systematic Literature Review (under review)
-3. From Productivity to Operational Autonomy: A Systematic Review of the Paradigm Shift in Enterprise Software Value Creation - From Pre-AI Architectures to Vertical Agentic Systems and the Transformation of Digital Economics (1990 - 2026) - (pending...)
+### 🟢 Published
 
+**Systematic review: a literature review of process mining in healthcare**
 
----
+*International Journal of Data Science and Analytics, Springer · 2026*
 
-### 🛠 Technical Skills
-**Backend & Programming:** Python, Django, FastAPI, SQL  
-**Databases:** MySQL, Redis, basic experience with graph & vector databases  
-**Process Mining:** ProM (Alpha, Heuristic Miner, Inductive Miner), Disco  
-**ML & Data:** pandas, scikit-learn, feature engineering, classical ML  
-**DevOps:** Git, Docker  
-**Academic:** Systematic literature review, scientific writing, reproducible experiments
+A systematic literature review conducted following the PRISMA 2020 framework, synthesizing research on process mining in healthcare, including process discovery, conformance checking, bottleneck detection, algorithmic trends, tool adoption, AI/ML integration, and barriers to real-world implementation.
+
+[Read the paper](https://doi.org/10.1007/s41060-026-01142-5)
 
 ---
 
-### 📫 Contact
-- Email: **aydinfakhri9@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/aydin-fakhri/**
-- GitHub: **https://github.com/aidinfk**
+### 🟡 Under Peer Review
+
+**Using Advanced Learning Techniques to Predict Software Defects: A Systematic Literature Review**
+
+*International Journal of Computational Intelligence Systems*
+
+This systematic literature review examines advanced learning techniques for software defect prediction, including ensemble learning, deep learning, Graph Neural Networks (GNNs), Transformer-based models, Contrastive Learning, Transfer Learning, and Federated Learning.
+
+The study investigates methodological biases and research–practice gaps, with particular attention to validation protocols, class imbalance, cross-project evaluation, explainability, and deployment readiness.
 
 ---
 
-### ⚡ Current Work
-Exploring **sustainable backend optimization**, **hybrid data architectures**, and **efficient process-mining pipelines** for healthcare systems.
+### 🟠 Manuscript in Preparation
 
+**Optimizing Healthcare Process Mining and Data Center Sustainability: A Polyglot Hybrid Database Architecture with In-Database Analytics**
+
+*First-author research manuscript*
+
+This work investigates a polyglot persistence architecture combining **MySQL, MongoDB, and Redis** for healthcare process mining.
+
+The research focuses on reducing data movement and I/O overhead while jointly evaluating **analytical performance, resource consumption, energy usage, and CO₂ emissions**.
+
+The study explores how database architecture and in-database analytics can contribute to more efficient and sustainable process-mining workloads.
+
+---
+
+## 🛠️ Technical Background
+
+### Programming & Backend
+- Python
+- Django
+- SQL
+- Backend Development
+
+### Databases & Data Systems
+- MySQL
+- PostgreSQL
+- MongoDB
+- Redis
+- NoSQL databases
+- Graph-oriented data systems
+
+### Data Analysis & Machine Learning
+- pandas
+- scikit-learn
+- Data Analysis
+- Feature Engineering
+- Classical Machine Learning
+
+### Process Mining
+- ProM
+- Alpha Miner
+- Heuristic Miner
+- Inductive Miner
+- Disco
+
+### Research & Scientific Computing
+- Systematic Literature Reviews
+- Literature Synthesis
+- Research Gap Analysis
+- Scientific Writing
+- Data Analysis
+- Reproducible Experiments
+
+### Development Tools
+- Git
+- Docker
+- Linux
+
+---
+
+## 🎓 Academic Background
+
+**M.Sc. in Software Engineering**  
+Islamic Azad University, Tabriz · 2025
+
+**B.Sc. in Computer Engineering**  
+Islamic Azad University, Tabriz · 2022
+
+---
+
+## 🚀 Current Research Direction
+
+My current work focuses on the intersection of:
+
+**Process Mining + AI/ML + Data-Intensive Systems + Software Engineering + Sustainable Computing**
+
+I am particularly interested in research problems involving:
+
+- Healthcare process analysis and optimization
+- Data-intensive computational workloads
+- Efficient database architectures
+- Performance and resource optimization
+- Sustainable software and computing systems
+- AI/ML methods for complex software and organizational processes
+- Reproducible and evidence-based research
+
+My broader research goal is to investigate how **software engineering, intelligent methods, and data systems can be combined to address complex real-world problems while improving computational efficiency and sustainability**.
+
+---
+
+## 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/aydin-fakhri](https://www.linkedin.com/in/aydin-fakhri/)
+- **Email:** [aydinfakhri9@gmail.com](mailto:aydinfakhri9@gmail.com)
