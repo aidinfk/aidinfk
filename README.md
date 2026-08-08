@@ -55,7 +55,7 @@ The study investigates methodological biases and research–practice gaps, with 
 
 ### 🟠 Manuscript in Preparation
 
-**Optimizing Healthcare Process Mining and Data Center Sustainability: A Polyglot Hybrid Database Architecture with In-Database Analytics**
+**Toward Sustainable Healthcare Process Mining: A Polyglot Hybrid Database Architecture for Performance and CO₂ Reduction**
 
 *First-author research manuscript*
 
