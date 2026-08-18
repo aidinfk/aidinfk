@@ -53,7 +53,7 @@ The study investigates methodological biases and research–practice gaps, with 
 
 ---
 
-### 🟠 Manuscript in Preparation
+### 🟠 Submitted
 
 **Toward Sustainable Healthcare Process Mining: A Polyglot Hybrid Database Architecture for Performance and CO₂ Reduction**
 
