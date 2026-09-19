@@ -54,6 +54,7 @@ The study investigates methodological biases and research–practice gaps, with 
 **Toward Sustainable Healthcare Process Mining: A Polyglot Hybrid Database Architecture for Performance and CO₂ Reduction**
 
 *International Journal of Sustainable Computing - Elsevier*
+
 *First-author research manuscript*
 
 This work investigates a polyglot persistence architecture combining **MySQL, MongoDB, and Redis** for healthcare process mining.
