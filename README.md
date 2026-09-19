@@ -51,12 +51,9 @@ This systematic literature review examines advanced learning techniques for soft
 
 The study investigates methodological biases and research–practice gaps, with particular attention to validation protocols, class imbalance, cross-project evaluation, explainability, and deployment readiness.
 
----
-
-### 🟠 Submitted
-
 **Toward Sustainable Healthcare Process Mining: A Polyglot Hybrid Database Architecture for Performance and CO₂ Reduction**
 
+*International Journal of Sustainable Computing - Elsevier*
 *First-author research manuscript*
 
 This work investigates a polyglot persistence architecture combining **MySQL, MongoDB, and Redis** for healthcare process mining.
